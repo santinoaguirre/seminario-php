@@ -2,6 +2,7 @@
 <html>
 <head>
 <title>Agregar usuario</title>
+<link rel="stylesheet" href="<?= base_url('css/app.css') ?>">
 </head>
 <body>
 <h1>Formulario de creación</h1>

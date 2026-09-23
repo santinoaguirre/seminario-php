@@ -2,6 +2,7 @@
 <html>
 <head>
 <title>Editar usuario</title>
+<link rel="stylesheet" href="<?= base_url('css/app.css') ?>">
 </head>
 <body>
 <h1>Editando usuario #<?= $user['id'] ?></h1>
